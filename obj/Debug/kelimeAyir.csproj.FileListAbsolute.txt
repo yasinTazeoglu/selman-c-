@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\bin\Debug\kelimeAyir.exe.config
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\bin\Debug\kelimeAyir.exe
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\bin\Debug\kelimeAyir.pdb
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.csprojResolveAssemblyReference.cache
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.Form1.resources
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.Properties.Resources.resources
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.csproj.GenerateResource.Cache
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.exe
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.pdb
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.txtList.resources
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.sentenceFormcs.resources
+C:\Users\HP\source\repos\kelimeAyir\kelimeAyir\obj\Debug\kelimeAyir.sentenceAddForm.resources
